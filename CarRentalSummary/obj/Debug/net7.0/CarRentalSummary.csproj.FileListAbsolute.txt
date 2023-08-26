@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\bin\Debug\net7.0\CarRentalSummary.exe
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\bin\Debug\net7.0\CarRentalSummary.deps.json
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\bin\Debug\net7.0\CarRentalSummary.runtimeconfig.json
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\bin\Debug\net7.0\CarRentalSummary.dll
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\bin\Debug\net7.0\CarRentalSummary.pdb
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\obj\Debug\net7.0\CarRentalSummary.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\obj\Debug\net7.0\CarRentalSummary.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\obj\Debug\net7.0\CarRentalSummary.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\obj\Debug\net7.0\CarRentalSummary.AssemblyInfo.cs
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\obj\Debug\net7.0\CarRentalSummary.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\obj\Debug\net7.0\CarRentalSummary.dll
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\obj\Debug\net7.0\refint\CarRentalSummary.dll
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\obj\Debug\net7.0\CarRentalSummary.pdb
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\obj\Debug\net7.0\CarRentalSummary.genruntimeconfig.cache
+C:\codigos\projetos C#\CarRentalSummary\CarRentalSummary\obj\Debug\net7.0\ref\CarRentalSummary.dll
